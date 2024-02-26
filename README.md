@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shakti Tamrakar</h1><br>
 - 👯 I’m looking to collaborate on <b>Work Based on Web Development</b><br>
 - 🌱 I’m currently learning <b>React</b><br>
-- 💬 Ask me about **React, <b>React Native</b><br>
+- 💬 Ask me about  <b>React,React Native</b><br>
 - 📫 How to reach me <b>shaktitamrakar14@gmail.com</b><br>
 - 👨‍💻 All of my projects are available at <b>GitHub</b><br>
 
