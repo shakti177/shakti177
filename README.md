@@ -22,10 +22,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://twitter.com/TamrakarShakti" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="TamrakarShakti" height="30" width="40" /></a><a href="https://linkedin.com/in/shaktitamrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="shaktitamrakar" height="30" width="40" /></a><a href="https://www.hackerrank.com/shaktitamrakar14" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="shaktitamrakar14" height="30" width="40" /></a><a href="https://www.leetcode.com/shakti17" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="shakti17" height="30" width="40" /></a><a href="https://instagram.com/shakti_tamrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="shakti_tamrakar" height="30" width="40" /></a></p>
-
-
-<p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
@@ -40,6 +36,10 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shakti177&show_icons=true&locale=en&theme=default" alt="shakti177" /></p>
 
+<div style = "display:flex;">
+  <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shakti177&show_icons=true&locale=en&theme=default" alt="shakti177" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shakti177&theme=" alt="shakti177" /></p>
+</div>
+
+
