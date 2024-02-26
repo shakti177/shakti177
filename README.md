@@ -36,10 +36,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-
-<div style = "display:flex;">
   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shakti177&show_icons=true&locale=en&theme=default" alt="shakti177" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shakti177&theme=" alt="shakti177" /></p>
-</div>
 
 
