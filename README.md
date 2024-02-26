@@ -7,7 +7,6 @@
 - 👨‍💻 All of my projects are available at <b>GitHub</b><br>
 
 <br>
-<br>
 
 <h3 align="left">Connect with me:</h3><br>
 
@@ -18,7 +17,7 @@
 <a href = "mailto:shaktitamrakar14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
