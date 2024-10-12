@@ -7,8 +7,8 @@
 - 👨‍💻 All of my projects are available at <b>GitHub</b><br>
 
 <br>
+
 [![An image of @shakti177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shakti177)](https://holopin.io/@shakti177)
-<br>
 
 <h3 align="left">Connect with me:</h3><br>
 
