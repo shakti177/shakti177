@@ -39,8 +39,7 @@
 
 <h3 align="left">Stars</h3>
   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shakti177&show_icons=true&locale=en&theme=default" alt="shakti177" /></p>
-<p><img src="https://streak-stats.demolab.com?user=shakti177" alt="GitHub Streak" /></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakti177)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=shakti177&&style=flat-square" align="center" />
 
 
