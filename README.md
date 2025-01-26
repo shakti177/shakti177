@@ -40,6 +40,8 @@
 <h3 align="left">Stars</h3>
   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shakti177&show_icons=true&locale=en&theme=default" alt="shakti177" /></p>
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shakti177&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img src="https://komarev.com/ghpvc/?username=shakti177&&style=flat-square" align="center" />
 
 
